@@ -1,0 +1,75 @@
+ Machine Learning – Overview and Types
+
+ Introduction
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed. Instead of following fixed instructions, machine learning algorithms analyze patterns in data and make predictions or decisions.
+
+Machine learning is widely used in applications such as recommendation systems, image recognition, speech recognition, fraud detection, and autonomous vehicles.
+
+## How Machine Learning Works
+
+Machine learning systems learn from **training data**. The algorithm identifies patterns and relationships in the data and builds a model. This model can then be used to make predictions on new, unseen data.
+
+Basic ML workflow:
+
+1. Data Collection
+2. Data Preprocessing
+3. Model Training
+4. Model Evaluation
+5. Prediction / Deployment
+
+## Types of Machine Learning
+
+### 1. Supervised Learning
+
+In supervised learning, the model is trained using **labeled data**, meaning the input data is paired with the correct output. The algorithm learns the relationship between input and output to make predictions.
+
+Examples:
+
+* Email spam detection
+* House price prediction
+* Image classification
+
+Common Algorithms:
+
+* Linear Regression
+* Decision Trees
+* Support Vector Machines (SVM)
+* Neural Networks
+
+ 2. Unsupervised Learning
+
+In unsupervised learning, the model is trained using **unlabeled data**. The algorithm tries to find hidden patterns or structures in the data.
+
+Examples:
+
+* Customer segmentation
+* Market basket analysis
+* Anomaly detection
+
+Common Algorithms:
+
+* K-Means Clustering
+* Hierarchical Clustering
+* Principal Component Analysis (PCA)
+
+ 3. Reinforcement Learning
+
+In reinforcement learning, an agent learns by **interacting with an environment** and receiving rewards or penalties based on its actions. The goal is to maximize the total reward.
+
+Examples:
+
+* Game playing (Chess, Go)
+* Self-driving cars
+* Robotics control systems
+
+Key Concepts:
+
+* Agent
+* Environment
+* Reward
+* Policy
+
+Conclusion
+
+Machine learning is transforming many industries by enabling systems to automatically learn from data and improve over time. The three main types—supervised learning, unsupervised learning, and reinforcement learning—form the foundation of modern AI applications.
